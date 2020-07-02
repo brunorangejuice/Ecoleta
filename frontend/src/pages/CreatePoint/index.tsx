@@ -182,11 +182,11 @@ const CreatePoint = () => {
                         </div>
 
                         <div className="field">
-                            <label htmlFor="whatsaap">Whatsapp</label>
+                            <label htmlFor="whatsapp">Whatsapp</label>
                             <input 
                                 type="text"
-                                name="whatsaap"
-                                id="whatsaap"
+                                name="whatsapp"
+                                id="whatsapp"
                                 onChange={handleInputChange} 
                             />
                         </div>
